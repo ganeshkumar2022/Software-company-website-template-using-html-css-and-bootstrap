@@ -1,0 +1,24 @@
+
+.head-social
+{
+    font-size:20px;
+}
+.myheader ul li a
+{
+    color:rgb(76,76,76) !important;
+    font-family: Raleway,sans-serif;
+}
+.home-page
+{
+    background-image: url("images/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment:fixed;
+    overflow:hidden;
+    width:100vw;
+}
+.home-page .home-start
+{
+    background-color:rgba(0,0,0,0.6);
+    height:400px;
+}

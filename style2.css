@@ -1,0 +1,82 @@
+html
+{
+    scroll-behavior: smooth;
+}
+body
+{
+    width:100vw;
+    overflow-x:hidden;
+}
+.home-h1-text
+{
+    font-size:53px !important;
+    text-shadow:2px 2px 3px black;
+    font-weight: 700;
+    font-family:sans-serif;
+}
+.myor
+{
+    color:rgb(253,104,2) !important;
+}
+.myh5
+{
+    font-family:raleway;
+}
+.home-page .home-start
+{
+    background-color:rgba(0,0,0,0.6);
+    height:600px;
+}
+.myclient
+{
+    background-color:rgb(253,104,2);
+    color:white;
+    font-size:30px;
+    padding:30px;
+}
+.sumo
+{
+    background-image: url("images/s.jpg");
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+
+}
+.myima
+{
+    height:250px;
+    width:auto;
+}
+.mytexta
+{
+    font-size:17px;
+}
+.mymila
+{
+    padding-bottom:8px;
+    border-bottom:1px dashed gray;
+}
+.myinputg input,.myinputg input:focus
+{
+    font-size: 16px !important;
+    box-shadow:none;
+}
+.mymaaas
+{
+    padding:15px;
+    background-color:rgb(253,104,2);
+    color:white;
+    display:inline-block;
+    position:fixed;
+    right:10px;
+    bottom:10px;
+    visibility: hidden;
+    z-index:8;
+  
+    
+}
+.mybanner
+{
+    background-image: url("images/qwe.webp");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
